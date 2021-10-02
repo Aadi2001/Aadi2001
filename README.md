@@ -39,7 +39,7 @@
 ![](https://img.shields.io/badge/Cloud-Microsoft%20Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=2bbc8a)<br><hr>
 <a href="https://github.com/Aadi2001">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi2001" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi2001&hide=CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Aadi2001">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aadi2001" alt="Aadi's GitHub Stats" />
