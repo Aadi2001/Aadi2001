@@ -2,11 +2,9 @@
 <h1>Hi there! 👋😄<br>I'm <a href="https://www.adityayadav.my.id/">Aditya Yadav</a><br>A Passionate Software & Full Stack Developer</h1>
 <h3>Currently Pursuing final year Bachelors of Engineering from Mumbai University</h3>
 <br>
-<a href="https://github.com/Aadi2001/github-readme-stats/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aadi2001&repo=github-readme-stats" />
+<a href="https://github.com/Aadi2001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi2001" />
 </a>
-<a href="https://github.com/Aadi2001/github-readme-stats/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aadi2001&repo=convoychat" />
+<a href="https://github.com/Aadi2001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aadi2001" alt="Aadi's GitHub Stats" />
 </a>
-
-
