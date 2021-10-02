@@ -30,8 +30,8 @@
 ## Database
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![]()
-![]()
+![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-informational?styl\e=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MariaDB-informational?styl\e=flat&logo=mariadb&logoColor=white&color=2bbc8a)
 ## Cloud
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google%20Cloud%20Platform-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
