@@ -5,7 +5,7 @@
 <!-- <a href="https://github.com/Aadi2001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi2001" />
 </a> -->
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools   
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
