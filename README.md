@@ -3,6 +3,8 @@
 <h3>Currently Pursuing final year Bachelors of Engineering from Mumbai University</h3>
 <br>
 [![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadi2001)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi2001)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- [![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadi2001&show_icons=true&theme=dracula)] -->
 
