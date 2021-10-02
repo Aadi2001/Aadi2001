@@ -42,5 +42,5 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi2001&hide=CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Aadi2001">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aadi2001" alt="Aadi's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aadi2001&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aadi's GitHub Stats" />
 </a>
