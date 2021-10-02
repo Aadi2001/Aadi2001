@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=2bbc8a)<br><hr>
 <a href="https://github.com/Aadi2001">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aadi2001" alt="Aadi's GitHub Stats" />
-</a>
+</a><vr>
 <a href="https://github.com/Aadi2001">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi2001" />
 </a>
